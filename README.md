@@ -8,7 +8,10 @@ Projeto desenvolvido em Java para gerenciamento de bibliotecas, com funcionalida
 - Empréstimo e devolução de livros
 - Validação de CPF
 - Gerenciamento de exceções específicas
-- Arquivo de configurações
+- Arquivo de configurações .properties
+- Validação de Datas
+- Relatório de acervo de livros e cadastro de usuários
+- Gerenciamento parcial de multas por atraso
 
 ## 🛠️ Tecnologias utilizadas
 
@@ -16,7 +19,7 @@ Projeto desenvolvido em Java para gerenciamento de bibliotecas, com funcionalida
 - Orientação a Objetos
 - Estrutura de diretórios organizada por pacotes
 
-## 📁 Estrutura do Projeto
+# 📁 Estrutura do Projeto
 
 P3n/
 ├── lp2g37/
@@ -30,7 +33,7 @@ P3n/
 ├── ...
 
 
-## 📦 Como executar
+# 📦 Como executar
 
 1. Compile os arquivos `.java`:
    ```bash
