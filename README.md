@@ -21,7 +21,7 @@ Projeto desenvolvido em Java para gerenciamento de bibliotecas, com funcionalida
 
 # 📁 Estrutura do Projeto
 
-`P3n/
+```P3n/
 ├── lp2g37/
 │ └── biblioteca/
 │ ├── Livro.java
@@ -31,7 +31,8 @@ Projeto desenvolvido em Java para gerenciamento de bibliotecas, com funcionalida
 ├── .gitignore
 ├── politica.properties
 ├── ...
-`
+```
+
 
 # 📦 Como executar
 
