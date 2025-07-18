@@ -46,3 +46,10 @@ P3n/
 
 ```bash
 java P3nX
+```
+
+## Observação
+
+Os arquivos referentes ao GUI funcionam somente como teste prático de algumas funcionalidades do Sistema da Biblioteca.
+
+
