@@ -19,9 +19,10 @@ Projeto desenvolvido em Java para gerenciamento de bibliotecas, com funcionalida
 - Orientação a Objetos
 - Estrutura de diretórios organizada por pacotes
 
-# 📁 Estrutura do Projeto
+## 📁 Estrutura do Projeto
 
-```P3n/
+```
+P3n/
 ├── lp2g37/
 │ └── biblioteca/
 │ ├── Livro.java
@@ -31,14 +32,17 @@ Projeto desenvolvido em Java para gerenciamento de bibliotecas, com funcionalida
 ├── .gitignore
 ├── politica.properties
 ├── ...
+
 ```
 
 
-# 📦 Como executar
+## 📦 Como executar
 
 1. Compile os arquivos `.java`:
    ```bash
    javac lp2g37/biblioteca/*.java P3nX.java
 
-2. Execute
-`java P3nX`
+2. Execute o projeto:
+
+```bash
+java P3nX
