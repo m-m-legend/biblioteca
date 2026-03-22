@@ -1,25 +1,24 @@
-# 📚 Sistema de Biblioteca
+# 📚 Library System
 
-Projeto desenvolvido em Java para gerenciamento de bibliotecas, com funcionalidades como cadastro de livros, usuários e controle de empréstimos.
+Project developed in Java for library management, with features such as book registration, users and loan control.
 
-## 🚀 Funcionalidades
+## 🚀 Features
 
-- Cadastro de livros e usuários
-- Empréstimo e devolução de livros
-- Validação de CPF
-- Gerenciamento de exceções específicas
-- Arquivo de configurações .properties
-- Validação de Datas
-- Relatório de acervo de livros e cadastro de usuários
-- Gerenciamento parcial de multas por atraso
+- Book and user registration
+- Book borrowing and return
+- CPF validation
+- Management of specific exceptions
+- .properties configuration file
+- Date validation
+- Report of book collection and user registration
+- Partial management of late fees
 
-## 🛠️ Tecnologias utilizadas
+## 🛠️ Technologies Used
 
 - Java
-- Orientação a Objetos
-- Estrutura de diretórios organizada por pacotes
-
-## 📁 Estrutura do Projeto
+- Object-Oriented Programming
+- Directory structure organized by packages
+## 📁 Project Structure
 
 ```
 P3n/
@@ -32,24 +31,16 @@ P3n/
 ├── .gitignore
 ├── politica.properties
 ├── ...
-
 ```
+## 📦 How to Run
 
-
-## 📦 Como executar
-
-1. Compile os arquivos `.java`:
+1. Compile the `.java` files:
    ```bash
    javac lp2g37/biblioteca/*.java P3nX.java
-
-2. Execute o projeto:
-
+2. Run the project:
 ```bash
 java P3nX
 ```
+## Note
 
-## Observação
-
-Os arquivos referentes ao GUI funcionam somente como teste prático de algumas funcionalidades do Sistema da Biblioteca.
-
-
+The files referring to the GUI function only as a practical test of some functionalities of the Library System.
